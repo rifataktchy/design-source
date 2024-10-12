@@ -1,0 +1,268 @@
+#vas{padding: 290px 0px 10px 81px;
+width: 54px;}
+#vas a:hover{font-weight: bold;color:rgb(221, 90, 90);}
+#www{position: relative;
+float: right;
+width: 228px;
+padding: 15px 10px 10px 10px;}
+#contain{float:left;width:550px;}
+#first{float:left;width:1180px;height:105px;padding-left:10px;}
+#second{float:left;width:1180px;height:100px;padding-left:10px;}
+#third{float:left;width:1180px;padding-left:10px;}
+#third1{float:left;width:1180px;height:50px;padding:36px 10px 10px 46px;}
+
+
+#textContent1 {
+height: 95px;
+width: 500px;
+padding: 11px 0px 0px 0px;
+}
+.contentPageTitle1 {
+width: 100%;
+font-weight: bold;
+color: rgb(221, 90, 90);
+font-size: 20px;
+padding: 0px 0px 0px 15px;
+margin: 0px 0px 0px 0px;
+}
+#textContent11 {
+width:445px;
+padding: 0px 0px 0px 64px;
+}
+#Layera {
+
+  float:left;
+	width:810px;
+	
+	z-index:2;
+	left: 419px;
+	top: 32px;
+	overflow: auto;
+	padding-top: 2px;
+	padding-right: 10px;
+}
+#Layerb {
+
+  float:left;
+  width:810px;
+  /*height:390px;*/
+  z-index:2;
+  left: 419px;
+  top: 32px;
+  overflow: auto;
+  padding-top: 1px;
+  padding-right: 10px;
+}
+#Layerc {
+
+  float:left;
+  width:810px;
+  /*height:390px;*/
+  z-index:2;
+  left: 419px;
+  top: 32px;
+  overflow: auto;
+  padding-top: 4px;
+  padding-right: 10px;
+}
+
+#Layer1 {
+	float:left;
+	padding: 10px 25px 10px 64px;
+width: 62px;
+	z-index:17;
+	left: 69px;
+	top: 453px;
+}
+#Layer2 {
+	float:left;
+	padding:10px 10px 10px 10px;
+width: 62px;
+	z-index:17;
+	left: 167px;
+	top: 453px;
+}
+#Layer3 {
+ float:left;
+  padding:10px 10px 10px 24px;
+  width: 62px;
+  
+  z-index:17;
+  left: 267px;
+  top: 453px;
+}
+
+#Layer4 {
+ float:left;
+  padding:10px 10px 10px 24px;
+  width: 62px;
+  
+  z-index:17;
+  left: 267px;
+  top: 453px;
+}
+
+#Layer5 {
+ float:left;
+  padding:10px 10px 10px 24px;
+  width: 62px;
+  
+  z-index:17;
+  left: 267px;
+  top: 453px;
+}
+
+#Layer6 {
+ float:left;
+  padding:10px 10px 10px 24px;
+  width: 62px;
+  
+  z-index:17;
+  left: 267px;
+  top: 453px;
+}
+#Layer11 {
+  float:left;
+  padding:10px 25px 10px 64px;
+  width: 62px;
+  
+  z-index:17;
+  left: 69px;
+  top:557px;
+}
+#Layer22 {
+  float:left;
+  padding:10px 10px 10px 10px;
+  width: 62px;
+  
+  z-index:17;
+  left:167px;
+  top: 557px;
+}
+#Layer33 {
+  float:left;
+  padding:10px 10px 10px 24px;
+  width: 62px;
+  
+  z-index:17;
+  left: 267px;
+  top: 557px;
+}
+#Layer44 {
+  float:left;
+  padding:10px 10px 10px 24px;
+  width: 62px;
+  
+  z-index:17;
+  left: 267px;
+  top: 557px;
+}
+#Layer55 {
+  float:left;
+  padding:10px 10px 10px 24px;
+  width: 62px;
+  
+  z-index:17;
+  left: 267px;
+  top: 557px;
+}
+#Layer66 {
+  float:left;
+  padding:10px 10px 10px 24px;
+  width: 62px;
+  
+  z-index:17;
+  left: 267px;
+  top: 557px;
+}
+
+#Layer77 {
+  float:left;
+  padding:10px 10px 10px 24px;
+  width: 62px;
+  
+  z-index:17;
+  left: 267px;
+  top: 557px;
+}
+
+#Layer88 {
+  float:left;
+  padding:10px 10px 10px 24px;
+  width: 62px;
+  
+  z-index:17;
+  left: 267px;
+  top: 557px;
+}
+
+#Layer111 {
+  float:left;
+  padding:10px 25px 10px 64px;
+  width: 62px;
+  z-index:17;
+  left: 69px;
+  top:656px;
+}
+#Layer222 {
+ float:left;
+  padding:10px 10px 10px 10px;
+  width: 62px;
+  z-index:17;
+  left: 167px;
+  top: 656px;
+}
+#Layer333 {
+  float:left;
+  padding:10px 10px 10px 24px;
+  width: 62px;
+  z-index:17;
+  left: 267px;
+  top: 656px;
+}
+
+#Layer444 {
+  float:left;
+  padding:10px 10px 10px 24px;
+  width: 62px;
+  z-index:17;
+  left: 267px;
+  top: 656px;
+}
+
+#Layer555 {
+  float:left;
+  padding:10px 10px 10px 24px;
+  width: 62px;
+  z-index:17;
+  left: 267px;
+  top: 656px;
+}
+
+#Layer666 {
+  float:left;
+  padding:10px 10px 10px 24px;
+  width: 62px;
+  z-index:17;
+  left: 267px;
+  top: 656px;
+}
+
+#Layer777 {
+  float:left;
+  padding:10px 10px 10px 24px;
+  width: 62px;
+  z-index:17;
+  left: 267px;
+  top: 656px;
+}
+
+#Layer888 {
+  float:left;
+  padding:10px 10px 10px 24px;
+  width: 62px;
+  z-index:17;
+  left: 267px;
+  top: 656px;
+}
+.style2 {color: #996600}
